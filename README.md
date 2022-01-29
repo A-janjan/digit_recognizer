@@ -1,4 +1,4 @@
-# digit_recognizer 0.1.0
+# Digit Recognizer 0.1.0
 
 Digit detection with python tensorflow and opencv.
 > In progress
