@@ -1,5 +1,4 @@
-# digit_recognizer
-## Version 0.1.0
+# digit_recognizer 0.1.0
 
 Digit detection with python tensorflow and opencv.
 > In progress
@@ -32,4 +31,4 @@ Note: ZFnet architecture has not been used in test. but you can see that, in rep
 
 ## Bugs and Errors
 
-Please tell me the errors and bugs.
+Please tell me if you see error(s) and bug(s).
